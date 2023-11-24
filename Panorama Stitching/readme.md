@@ -1,4 +1,4 @@
-# Image Stitching with SIFT and OpenCV
+# Panoram Stitching with SIFT and OpenCV
 
 This Python script uses the Scale-Invariant Feature Transform (SIFT) algorithm and OpenCV to perform image stitching. It matches keypoints between two images and creates a panorama by applying a homography transformation.
 
