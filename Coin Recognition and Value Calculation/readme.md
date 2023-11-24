@@ -23,6 +23,11 @@ This Python script uses OpenCV to recognize and calculate the total value of coi
 - **Matches with Five-Cent:** Displays feature matches with the five-cent reference for each detected coin.
 - **Matches with Quarter:** Displays feature matches with the quarter reference for each detected coin.
 
+
+![total_value](https://github.com/upasana099/CV/assets/89516193/d6ce71bc-b5ff-4783-b15c-04704f6d815c)
+
+
+
 ## Dependencies
 
 - OpenCV: 4.x
